@@ -1,0 +1,4 @@
+# python >= 3.9
+spdx-tools >= 0.8.0
+packageurl-python >= 0.15.1
+click
